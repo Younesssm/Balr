@@ -150,9 +150,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+Muis en toetsenbord: Voor de gebruiker is het te zien wanneer hij of zij over de tekst in de footer
+hovert.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
 
 
 #### Titel tweede bevinding. 
