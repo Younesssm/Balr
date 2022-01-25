@@ -236,10 +236,12 @@ hier screenshot(s) van je eindresultaat
 <details open>
 <summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-1. bron 1
-2. bron 2
-3. ...
+1. bron 1: https://helpx.adobe.com/fonts/using/add-fonts-website.html
+2. bron 2: https://fonts.adobe.com/fonts/futura-pt
+3. bron 3: https://www.w3schools.com/html/html_forms.asp
+4. bron 4: https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
+5. bron 5: https://www.freecodecamp.org/news/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags/
+6. bron 6: https://www.w3schools.com/cssref/pr_class_display.asp
+7. bron 7: https://www.w3schools.com/html/html_attributes.asp
 
 </details>
