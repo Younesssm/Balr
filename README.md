@@ -219,11 +219,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb de juiste hulp gekregen van studentassistenten wanneer ik vastliep. Op het begin was het nog veel proberen en kijken wat fout gaat.
+Maar op een gegeven moment had ik de ritme te pakken en ging ik goed door de site heen. Ik ben trots op de site die ik in detial heb
+gemaakt. Waar ik voorheen moeite mee had, heb ik nu onder de knie en kan ik meenemen in de toekomst.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/link_met_muis.png?raw=true" width="375px" alt="eindresultaat_1">
 
 </details>
 
