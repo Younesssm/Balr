@@ -48,7 +48,8 @@ Balr - Over
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/breakdown1.png?raw=true" width="375px" alt="breakdown1">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/breakdown2.png?raw=true" width="375px" alt="breakdown2">
 
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -72,6 +73,9 @@ Nadat ik de website van Balr heb doorgenomen, ben ik begonnen met de header. Ik 
 en logo van de site gepakt en in mijn code gezet. Ik heb daarna een background foto erin gezet en deze in css
 als achtergrond geplaatst. Met de iconen had ik wat moeite om deze met de juiste afstand naast elkaar te zetten.
 Ik heb dit met margins en display-flex opgelost.
+
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/week2_html.png?raw=true" width="375px" alt="HTML">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/week2_css.png?raw=true" width="375px" alt="CSS">
 
 
 ### Agenda voor meeting
@@ -107,6 +111,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Door de les en opdracht die ik volgde van Vasilis, wist ik hoe ik te werk moest gaan met sections en article.
 Deze manier van werken heb ik toegepast in de website. Ik heb twee article's en voor elk een product gebruikt.
 Ik heb de font van Balr gedownload en in css in de body gezet.
+
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/week3_html.png?raw=true" width="375px" alt="HTML">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/week3_css.png?raw=true" width="375px" alt="CSS">
+
 
 
 ### Agenda voor meeting
@@ -176,7 +184,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-Bij de toegankelijkheidstest was ik niet aanwezig i.v.m het inhalen van de HCI tentamen. Dit viel nog onder mijn
+Bij de toegankelijkheidstest was ik niet aanwezig op school i.v.m het inhalen van de HCI tentamen. Dit viel nog onder mijn
 p vak en kreeg daarom voorrang.
 
 
