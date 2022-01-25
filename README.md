@@ -153,7 +153,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 Muis en toetsenbord: Voor de gebruiker is het te zien wanneer hij of zij over de tekst in de footer
 hovert.
 
-
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/link_met_muis.png?raw=true" width="375px" alt="Toegangkelijkheid">
 
 
 #### Titel tweede bevinding. 
