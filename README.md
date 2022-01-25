@@ -34,7 +34,7 @@ Balr - Home
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Balr - Over  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/over1.png?raw=true" width="375px" alt="over pagina balr 1">
  
 </details>
 
