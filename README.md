@@ -225,7 +225,12 @@ gemaakt. Waar ik voorheen moeite mee had, heb ik nu onder de knie en kan ik meen
 
 ### Screenshot(s)
 
-<img src="https://github.com/Younesssm/Balr-website/blob/main/images/link_met_muis.png?raw=true" width="375px" alt="eindresultaat_1">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind2.png?raw=true" width="375px" alt="eindresultaat_1">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind3.png?raw=true" width="375px" alt="eindresultaat_2">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind4.png?raw=true" width="375px" alt="eindresultaat_3">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind5.png?raw=true" width="375px" alt="eindresultaat_4">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind6.png?raw=true" width="375px" alt="eindresultaat_6">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/eind7.png?raw=true" width="375px" alt="eindresultaat_7">
 
 </details>
 
