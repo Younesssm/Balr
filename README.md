@@ -30,11 +30,13 @@ https://www.balr.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Balr - Home  
-<img src="imege" width="375px" alt="omschrijving van de pagina">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/screenshot_balr_site%20.png?raw=true" width="375px" alt="home page">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Balr - Over  
 <img src="https://github.com/Younesssm/Balr-website/blob/main/images/over1.png?raw=true" width="375px" alt="over pagina balr 1">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/over2.png?raw=true" width="375px" alt="over pagina balr 2">
+<img src="https://github.com/Younesssm/Balr-website/blob/main/images/over3.png?raw=true" width="375px" alt="over pagina balr 3">
  
 </details>
 
